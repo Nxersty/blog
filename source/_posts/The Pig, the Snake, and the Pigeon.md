@@ -4,7 +4,7 @@ title: The Pig, the Snake, and the Pigeon
 date: 2024-03-06 22:07:14
 tags:
 updated:
-categories:
+categories: 一些杂七杂八
 keywords:
 description:
 top_img: transparent
